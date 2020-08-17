@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <div>{{name}}</div>
     <input type="button" @click="clkInput" value="点击测试" />
+    <a-button type="primary">我是antd Button</a-button>
   </div>
 </template>
 
